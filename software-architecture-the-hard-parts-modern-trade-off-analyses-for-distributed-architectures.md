@@ -1,0 +1,1 @@
+# Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures 1st Edition
